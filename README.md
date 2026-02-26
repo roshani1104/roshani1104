@@ -63,7 +63,7 @@ A console-based Library Management System with:
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshani1104" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=roshani1104&theme=default&hide_border=true" height="160"/>
 </p>
 
 ---
